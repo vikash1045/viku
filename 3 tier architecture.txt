@@ -1,0 +1,33 @@
+3-Tier Architecture
+===============
+-	public EC2
+-	Private EC2
+	-	git clone https://github.com/thakurnishu/10_Weeks_Of_CloudOps.git
+	-	cd 10_Weeks_Of_CloudOps$
+	-	git checkout week2 
+	-	cd application_code
+	-	cd app_tier
+	-	sudo nano DbConfig.js
+
+-	After saving the file 
+-------------------------------
+	-	Run the commands in the GitHub
+                
+
+
+-	Public Ec2
+	-	git clone https://github.com/thakurnishu/10_Weeks_Of_CloudOps.git
+	-	cd 10_Weeks_Of_CloudOps$
+	-	git checkout week2 
+	-	cd application-code
+	-	nano ngnix.conf
+	-	cd 
+	-	cd 10Weeks_of....
+	-	sudo apt install npm 
+	-	After installation of npm 
+
+	-	Run the commands in the GitHub
+
+
+
+
